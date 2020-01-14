@@ -1,7 +1,7 @@
 ---
 title: TUI
 subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+image: img/about-reinvest-profits.jpg
 blurb:
   heading: Why Kaldi?
   text: >-
