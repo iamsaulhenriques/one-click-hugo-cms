@@ -4,6 +4,7 @@ subtitle: Olá ricardo
 image: img/about-reinvest-profits.jpg
 blurb:
   heading: Why Kaldi?
+  location: '{"type":"Point","coordinates":[-6.1427976,19.9802834]}'
   text: >-
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
