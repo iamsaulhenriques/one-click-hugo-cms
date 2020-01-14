@@ -35,10 +35,7 @@ collections: # A list of collections the CMS should be able to edit
               {label: "Heading", name: "heading", widget: string},
               {label: "Text", name: "text", widget: "text"}]}
           - {label: "Products", name: products, widget: list, fields: [
-          - label: "City"name: "airport-code" widget: "select"options:
-            - { label: "Chicago", value: "ORD" }
-            - { label: "Paris", value: "CDG" }
-            - { label: "Tokyo", value: "HND" },
+         
               {label: "Image", name: "image", widget: "image"},
               {label: "Text", name: "text", widget: "text"}]}
           - {label: "Values", name: "values", widget: "object", fields: [
