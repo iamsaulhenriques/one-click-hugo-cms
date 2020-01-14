@@ -4,7 +4,7 @@ subtitle: >-
   The Algarve is the beautiful southern coastline of Portugal. It is a region
   blessed with stunning beaches, picturesque fishing towns and a glorious
   climate, all of which combine to create the perfect holiday destination.
-image: img/about-reinvest-profits.jpg
+image: img/op_76105_algarve.jpg
 blurb:
   heading: Why Kaldi?
   location: '{"type":"Point","coordinates":[-6.1427976,19.9802834]}'
