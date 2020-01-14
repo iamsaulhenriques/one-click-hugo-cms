@@ -1,6 +1,6 @@
 ---
 title: TUI
-subtitle: Support sustainable farming while enjoying a cup
+subtitle: Olá ricardo
 image: img/about-reinvest-profits.jpg
 blurb:
   heading: Why Kaldi?
